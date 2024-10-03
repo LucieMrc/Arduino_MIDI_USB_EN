@@ -7,6 +7,8 @@ French version [here](https://github.com/LucieMrc/Arduino_MIDI_USB_FR)
 - Valentin's [Introduction to Arduino](https://www.valentindupas.com/courses/arduino/1-_Arduino_from_the_ground_up) 
 - B2renger's [introduction to Arduino and sensors](https://github.com/b2renger/Introduction_Arduino/tree/english)
 
+https://github.com/user-attachments/assets/c2010b42-fa77-4d7c-9026-c64da561116d
+
 ## MIDI communication
 
 MIDI (Musical Instrument Digital Interface) is a communications protocol for music, most commonly used for communication between electronic instruments, controllers and music software.
